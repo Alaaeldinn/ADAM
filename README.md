@@ -24,3 +24,8 @@ Follow the steps below to set up and use the LlamaQC-Chatbot:
 The LlamaQC-Chatbot is designed to be user-friendly and can be employed in various scenarios, such as quality control inspections, manufacturing processes, or any situation where QC expertise is needed.
 
 Feel free to modify the chatbot's responses and prompts to suit your specific QC needs.
+
+```
+python main.py
+
+``` 
