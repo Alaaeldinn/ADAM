@@ -1,31 +1,24 @@
-# LlamaQC-Chatbot
+# ADAM (Autonomous Data-driven Auditing Model)
 
-Welcome to the LlamaQC-Chatbot repository!
-
-## Overview
-This repository showcases the implementation of a quality control (QC) chatbot using the powerful Llama-2-13b-Chat-GPTQ language model. The chatbot is designed to assist with QC tasks and provide answers to questions related to quality control, making it a valuable tool for various industries and domains.
+Artificial Internal Auditor : Autonomous Data driven Auditing Model (ADAM) is an Advanced Auditing Model that automates the auditing process using data-driven methodologies. It is a RAG auditing application powered by Llama-2 for efficient, accurate audits, reducing manual efforts and errors.
 
 ## Features
-- Integration with Llama-2-13b-Chat-GPTQ for natural language understanding and generation.
-- Quality control-related prompts and questions supported.
-- Convenient user interface for interacting with the chatbot.
 
-## Getting Started
-Follow the steps below to set up and use the LlamaQC-Chatbot:
+- **Autonomous Audits:** Independently analyzes internal data from disparate sources, eliminating the need for manual data cleansing and pre-processing.
+- **Data-Driven Insights:** Utilizes advanced machine learning algorithms like anomaly detection, predictive analytics, and natural language processing to identify potential risks and areas of concern.
+- **Continuous Monitoring:** Operates 24/7, constantly scrutinizing data to provide real-time insights and prevent issues before they escalate.
+- **Risk Prioritization:** Prioritizes audit areas based on severity and potential impact, enabling auditors to focus resources effectively.
+- **Detailed Reporting:** Generates comprehensive reports with visualizations and explanations, facilitating informed decision-making.
+- **Human-Computer Collaboration:** Seamlessly integrates with human auditors, enhancing their efficiency and effectiveness through its data-driven insights.
 
-1. Clone this repository to your local environment.
-2. Install the required dependencies, which typically include Hugging Face Transformers and Streamlit.
-3. Run the chatbot application by executing the provided Python script.
-4. Upload your quality control-related documents or data.
-5. Ask questions or provide prompts related to your quality control process.
-6. Interact with the chatbot to receive answers and guidance.
+## Data Integration Framework
 
-## Usage
-The LlamaQC-Chatbot is designed to be user-friendly and can be employed in various scenarios, such as quality control inspections, manufacturing processes, or any situation where QC expertise is needed.
+- Seamlessly connects to various internal data sources for comprehensive analysis.
 
-Feel free to modify the chatbot's responses and prompts to suit your specific QC needs.
 
-```
-python main.py
+## Benefits
 
-``` 
+- **Reduced Audit Costs:** Improved efficiency and automation lead to significant cost savings.
+- **Enhanced Risk Management:** Early identification and prioritization of risks lead to faster and more effective mitigation.
+- **Improved Audit Quality:** Data-driven insights and continuous monitoring ensure more thorough and accurate audits.
+- **Freed Up Auditor Resources:** Automation allows auditors to focus on complex tasks and strategic insights.
